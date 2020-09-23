@@ -20,5 +20,5 @@ Arrays are created with a fixed size. Some languages will automatically resize t
 |-----------|------------|------------------------------------------------------------------------------------------------|
 | Access    | O(1)       | Accessing an element can be done with the formula above. No iteration needed.                  |
 | Search    | O(n)       | An array is searched by iterating through and checking each element to see if it's the target. |
-| Add       | O(n)       | A new array is created and each element plus the new one is added to the new array.            |
-| Delete    | O(n)       | Similar to Add, a new array is created and each element is added to it, except the new one.    |
+| Add       | O(n)       | A new array is created and each element plus the new one is added to the new array. ([example](examples/AddOrRemove.java))           |
+| Delete    | O(n)       | Similar to Add, a new array is created and each element is added to it, except the new one. ([example](examples/AddOrRemove.java))    |

@@ -52,4 +52,4 @@ return currentNode.data;
 * Typically when dealing with Linked Lists, you'll only be given the head of the list. It's worth asking if you also have access to the tail or length of the list.
 
 ## Examples
-* [Singly Linked List](examples/SinglyLinkedList.ts)
+* [Singly Linked List](examples/SinglyLinkedList.java)

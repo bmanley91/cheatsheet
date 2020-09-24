@@ -1,5 +1,5 @@
 # Arrays
-An array is a collection of elements which can each be identified and accessed by an index.
+An **Array** is a collection of elements which can each be identified and accessed by an index.
 
 ```
 arr = [0, 1, 2, 3]

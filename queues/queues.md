@@ -5,7 +5,7 @@ Queues are very similar to stacks, but with opposite ordering. Queues typically 
 * **add** - Add an item to the *end* of the queue.
 * **remove** - Remove and return the element at the front of the Queue. Sometimes called **dequeue**.
 * **peek** - Return the element at the front of the Queue without removing it.
-* **isEmpty** - Return true if there are no elements in the stack or false otherwise.
+* **isEmpty** - Return true if there are no elements in the Queue or false otherwise.
 
 Operation | Complexity | Explaination                                                                                   |
 |-----------|------------|------------------------------------------------------------------------------------------------|

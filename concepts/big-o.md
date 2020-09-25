@@ -1,5 +1,6 @@
 # Big O
 ([showtime](https://www.youtube.com/watch?v=G9xzhyp431c&ab_channel=DualAngelicus))
+
 **Big O** notation is used to describe how the runtime of an algorithm scales with input size. It can be used in reference to either **Time** or **Space Complexity**.
 
 * **Time Complexity** - How many operations does the algorithm execute.

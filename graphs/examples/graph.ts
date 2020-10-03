@@ -63,4 +63,13 @@ class Graph {
         
         return true;
     }
+
+
+    depthFirstSearch() {
+        // TODO
+    }
+
+    breadthFirstSearch() {
+        // TODO
+    }
 }

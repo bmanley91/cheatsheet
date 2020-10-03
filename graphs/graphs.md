@@ -13,3 +13,4 @@ Operations on a Graph can be a bit more complicated than their counterparts for 
   * **BFS** - Starting at an arbitrary node, visit all neighbors before moving on to their neighbors. Repeat this process until the target is found or all reachable nodes have been visited.
 
 ## Examples
+* [Sample Graph](examples/graph.ts)

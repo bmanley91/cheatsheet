@@ -1,9 +1,11 @@
 class Vertex {
     data: number;
     edges: Vertex[];
+    visited: boolean;
 
     constructor(data: number) {
         this.data = data;
+        this.edges = [];
     }
 }
 
@@ -64,12 +66,58 @@ class Graph {
         return true;
     }
 
+    /**
+     * Search for a target value in the Graph following a DFS approach.
+     * 
+     * @param root 
+     * @param target 
+     */
+    depthFirstSearch(root: Vertex, target: number): void {
+        if (!root) return null;
 
-    depthFirstSearch() {
-        // TODO
+        this.visit(root, target);
+
+        root.visited = true;
+        root.edges.forEach(vertex => {
+            if (!vertex.visited) {
+                this.depthFirstSearch(vertex, target);
+            }
+        });
     }
 
-    breadthFirstSearch() {
-        // TODO
+    breadthFirstSearch(root: Vertex, target: number): void {
+        const queue = new Queue<Vertex>();
+
+        // Add the root node to the queue to start off
+        // We mark that we've visited the root already to make sure we don't queue it more than once.
+        root.visited = true;
+        queue.enqueue(root);
+
+        while (!queue.isEmpty()) {
+            // Get the Vertex at the front of the queue and visit it
+            const node = queue.dequeue();
+            this.visit(node, target);
+
+            node.edges.forEach(n => {
+                // Follow the same approach that we did with the root node 
+                // for each neighbor that hasn't already been visited.
+                // Mark the node, then add it to the queue
+                if (!n.visited) {
+                    n.visited;
+                    queue.enqueue(n);
+                }
+            })
+        }
+    }
+
+    /**
+     * Helper function to print if we find our target
+     * @param node 
+     * @param target 
+     */
+    visit(node: Vertex, target: number): void {
+        if (node.data === target) {
+            console.log(`Found!`);
+        }
     }
 }

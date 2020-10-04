@@ -67,7 +67,7 @@ class Graph {
     }
 
     /**
-     * Search for a target value in the Graph following a DFS approach.
+     * Search for a target value in the Graph following a depth-first approach.
      * 
      * @param root 
      * @param target 
@@ -85,6 +85,11 @@ class Graph {
         });
     }
 
+    /**
+     * Search for a target value in the Graph following a breadth-first approach
+     * @param root 
+     * @param target 
+     */
     breadthFirstSearch(root: Vertex, target: number): void {
         const queue = new Queue<Vertex>();
 

@@ -12,3 +12,6 @@ A cheatsheet for data structures, algorithms, and programming practices.
 
 # Concepts
 * [Big O](concepts/big-o.md)
+
+# Practices
+* [Dynamic Programming](concepts/dynamic-programming/dynamic-programming.md)

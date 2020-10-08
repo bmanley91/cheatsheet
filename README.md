@@ -9,6 +9,7 @@ A cheatsheet for data structures, algorithms, and programming practices.
 * [Queues](queues/queues.md)
 * [Trees](trees/trees.md)
 * [Graphs](graphs/graphs.md)
+* [Heaps](heaps/heaps.md)
 
 # Concepts
 * [Big O](concepts/big-o.md)

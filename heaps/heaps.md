@@ -28,4 +28,8 @@ Extraction from a heap usually takes `O(log n)` time.
 
 ## Examples
 Heaps are useful for when you need to merge datasets in ascending or decending order or need to keep track of a running minimum or maximum (or both in the case of a running median).
-* [MedianFinder](examples/MedianFinder.java)
+
+* [Find Running Median](https://leetcode.com/problems/find-median-from-data-stream/)
+  * [Solution](examples/MedianFinder.java)
+* [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  * [Solution](examples/ListMerger.java) 

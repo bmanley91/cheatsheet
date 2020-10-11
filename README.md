@@ -10,6 +10,7 @@ A cheatsheet for data structures, algorithms, and programming practices.
 * [Trees](data-structures/trees/trees.md)
 * [Graphs](data-structures/graphs/graphs.md)
 * [Heaps](data-structures/heaps/heaps.md)
+* [Hash Table](data-structures/hash-tables/hash-tables.md)
 
 # Concepts
 * [Big O](concepts/big-o.md)

@@ -27,3 +27,8 @@ Arrays are created with a fixed size. Some languages will automatically resize t
 Strings are often lumped in with Arrays since they share many of the same characteristics. Strings are ordered characters which can be accessed by their indexes. 
 
 A gotcha to look out for when dealing with Strings and Arrays is language specific functions for dealing with them. For example in Java, you get the size of an array with `array.length`, but to do the same for a String you use `string.length()`.
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/TwoSum.java) |

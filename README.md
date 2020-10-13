@@ -1,6 +1,8 @@
 # cheatsheet
 A cheatsheet for data structures, algorithms, and programming practices.
 
+If you'd like to add anything, please open a Pull Request!
+
 # Data Structures
 * [Arrays and Strings](data-structures/arrays-and-strings/arrays-and-strings.md)
 * [Sets](data-structures/sets/sets.md)

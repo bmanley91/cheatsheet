@@ -23,19 +23,26 @@ function getFirst(arr: Number[]) {
 ```
 
 ### O(log n) 
-O(log n) is commonly used to describe algorithms that follow a "Divide and Conquer" approach, or one that deals with slicing an input into smaller and smaller parts. Binary Search of a sorted list.
+O(log n) is commonly used to describe algorithms that follow a [Divide and Conquer](divide-and-conquer/divide-and-conquer.md) approach, or one that deals with slicing an input into smaller and smaller parts. Binary Search of a sorted list.
 
 ```ts
-const list = [1, 2, 3, ..., 99, 100];
-console.log(binarySearch(list, 42, 0, list.length);
+const list = [1, 2, 3, 99, 100];
+console.log(search(list, 99));
 
-function binarySearch(input: Number[], target: Number, left: Number, right: Number): Number {
-    const mid = (left + right) / 2;
+function search(list: number[], target: number): number {
+    return binarySearch(list, target, 0, list.length);
+}
+
+function binarySearch(input: number[], target: number, left: number, right: number): number {
+    if (left > right) return - 1;
+
+    const mid = Math.floor((left + right) / 2);
+    console.log(mid);
 
     if (input[mid] > target) {
-        return binarySearch(input, target, left, mid);
+        return binarySearch(input, target, left, mid - 1);
     } else if (input[mid] < target) {
-        return binarySearch(input, target, mid, right);
+        return binarySearch(input, target, mid + 1, right);
     } else {
         return mid;
     }

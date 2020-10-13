@@ -35,3 +35,7 @@ Trees can't be simply searched like Linked Lists or Arrays. Adding to and removi
 * [Deletion](examples/delete.ts)
 * [Traversal](examples/traversal.ts)
 
+## Practice Problems
+| Problem | Solution |
+|---|---|
+| [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/solution/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/ValidateBST.java) |

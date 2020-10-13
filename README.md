@@ -17,3 +17,4 @@ A cheatsheet for data structures, algorithms, and programming practices.
 
 # Practices
 * [Dynamic Programming](concepts/dynamic-programming/dynamic-programming.md)
+* [Divide and Conquer](concepts/divide-and-conquer/divide-and-conquer.md)

@@ -63,3 +63,10 @@ int countChange(int amount, int[] coins) {
 ```
 
 Because we're using nested loops, the time complexity of the DP solution is `O(amount * coins.length)`  which is a significant improvement. To use the scenario above of figuring out how many ways you can make 100 from [1, 5, 10, 25], we now only need to perform ~400 calculations.
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/dynamic-programming/ClimbingStairs.java) |
+| [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/dynamic-programming/HouseRobber.java) |
+| [House Robber 2](https://leetcode.com/problems/house-robber-ii/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/dynamic-programming/HouseRobber2.java) |

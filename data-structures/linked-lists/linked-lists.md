@@ -53,3 +53,8 @@ return currentNode.data;
 
 ## Examples
 * [Singly Linked List](examples/SinglyLinkedList.java)
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Delete Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/DeleteNode.java) |

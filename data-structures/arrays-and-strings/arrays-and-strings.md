@@ -33,3 +33,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 |---|---|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/TwoSum.java) |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/RemoveDupliactes.java) |
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/ReverseString.java) |

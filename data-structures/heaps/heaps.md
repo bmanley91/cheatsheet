@@ -33,3 +33,8 @@ Heaps are useful for when you need to merge datasets in ascending or decending o
   * [Solution](examples/MedianFinder.java)
 * [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   * [Solution](examples/ListMerger.java) 
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/heaps/MeetingRooms2.java) |

@@ -39,3 +39,4 @@ Trees can't be simply searched like Linked Lists or Arrays. Adding to and removi
 | Problem | Solution |
 |---|---|
 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/ValidateBST.java) |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/SymmetricTree.java) |

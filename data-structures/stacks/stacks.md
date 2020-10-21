@@ -27,4 +27,4 @@ Operation | Complexity | Explaination                                           
 # Practice Problems
 | Problem | Solution |
 |---|---|
-| [Asteroid Collisions](https://leetcode.com/problems/asteroid-collision/) | [Solution]() |
+| [Asteroid Collisions](https://leetcode.com/problems/asteroid-collision/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/stacks/AsteroidCollisions.java) |

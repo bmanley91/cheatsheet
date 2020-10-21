@@ -38,3 +38,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/RotateArray.java) |
 | [Max Area of an Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MaxAreaOfIsland.java) ([Failed attempt at using BFS](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/FailedBFSIslands.java)) |
 | [First Unique Char](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/FirstUniqueChar.java) |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/CountIslands.java) |

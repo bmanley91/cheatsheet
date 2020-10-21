@@ -39,3 +39,6 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Max Area of an Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MaxAreaOfIsland.java) ([Failed attempt at using BFS](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/FailedBFSIslands.java)) |
 | [First Unique Char](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/FirstUniqueChar.java) |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/CountIslands.java) |
+| [Best Time to Buy/Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution]() |
+| [Best Time to Buy/Sell 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution]() |
+| [Best Time to Buy/Sell 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution]() |

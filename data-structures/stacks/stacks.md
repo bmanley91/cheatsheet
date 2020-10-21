@@ -23,3 +23,8 @@ Operation | Complexity | Explaination                                           
 ## Examples
 * [Example Stack Implementation](examples/StackExample.java)
 * [A JS Stack Implementation Using an Array](examples/StackUsingArray.js)
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Asteroid Collisions](https://leetcode.com/problems/asteroid-collision/) | [Solution]() |

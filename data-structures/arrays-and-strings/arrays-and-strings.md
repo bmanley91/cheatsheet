@@ -42,3 +42,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Best Time to Buy/Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/BuySellStock.java) |
 | [Best Time to Buy/Sell 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/BuySellStock2.java) |
 | [Best Time to Buy/Sell 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/BuySellStock3.java) |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MostCommonWord.java) |

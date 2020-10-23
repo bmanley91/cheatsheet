@@ -41,3 +41,4 @@ Trees can't be simply searched like Linked Lists or Arrays. Adding to and removi
 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/ValidateBST.java) |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/SymmetricTree.java) |
 | [Zig Zag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/ZigZagTraversal.java) |
+| [Min Depth](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/trees/MinDepth.java) |

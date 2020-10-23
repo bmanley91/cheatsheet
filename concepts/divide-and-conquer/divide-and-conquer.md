@@ -16,3 +16,8 @@ Merge Sort works by taking two sorted data sets and iterating through them, putt
 This can be a bit hard to visualize based just on the text so check out the code example below or this [visualization from Wikipedia](https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif).
 
 [Code Example](examples/mergeSort.ts)
+
+# Practice Problems
+| Problem | Solution |
+|---|---|
+| [Search Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SearchArrayOfUnknownSize.java) |

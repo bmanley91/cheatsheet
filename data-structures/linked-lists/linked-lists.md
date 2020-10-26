@@ -58,5 +58,5 @@ return currentNode.data;
 | Problem | Solution |
 |---|---|
 | [Delete Node](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/DeleteNode.java) |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/ReverseLinkedList.java) |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Iterative Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/ReverseLinkedList.java) <br> [Recursive Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/ReverseLinkedListRecursive.java) |
 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/linked-list/PlusOneLinkedList.java) |

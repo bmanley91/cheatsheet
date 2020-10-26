@@ -45,3 +45,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MostCommonWord.java) |
 | [Single Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SingleRowKeyboard.java) |
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/PlusOne.java) |
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/LongestPalindrome.java) |

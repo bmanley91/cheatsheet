@@ -38,3 +38,5 @@ Heaps are useful for when you need to merge datasets in ascending or decending o
 | Problem | Solution |
 |---|---|
 | [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/heaps/MeetingRooms2.java) |
+| [K Closest Points](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/heaps/KClosestPoints.java) |
+| [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/heaps/KthHighestElement.java) |

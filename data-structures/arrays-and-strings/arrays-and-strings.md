@@ -47,3 +47,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/PlusOne.java) |
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/LongestPalindrome.java) |
 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/ChampagneTower.java) |
+| [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SummaryRanges.java) |

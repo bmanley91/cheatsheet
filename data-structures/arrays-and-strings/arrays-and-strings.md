@@ -48,3 +48,5 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/LongestPalindrome.java) |
 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/ChampagneTower.java) |
 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SummaryRanges.java) |
+| [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MissingRanges.java) |
+| [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MaxDistanceToClosestPerson.java) |

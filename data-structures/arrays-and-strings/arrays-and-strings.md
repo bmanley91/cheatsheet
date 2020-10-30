@@ -50,3 +50,4 @@ A gotcha to look out for when dealing with Strings and Arrays is language specif
 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SummaryRanges.java) |
 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MissingRanges.java) |
 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/MaxDistanceToClosestPerson.java) |
+| [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/bmanley91/practice-problems/blob/main/arrays-and-strings/SetMatrixZeros.java) |
